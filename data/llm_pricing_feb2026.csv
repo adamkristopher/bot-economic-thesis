@@ -1,0 +1,5 @@
+model,provider,input_per_1m_tokens,output_per_1m_tokens,source
+Claude Opus 4.6,Anthropic,5.00,25.00,platform.claude.com/docs/en/about-claude/pricing
+GPT-5.2,OpenAI,1.75,14.00,platform.openai.com/docs/models
+Gemini 2.5 Pro,Google,1.25,10.00,ai.google.dev/gemini-api/docs/pricing
+Grok 3,xAI,3.00,15.00,docs.x.ai/developers/models

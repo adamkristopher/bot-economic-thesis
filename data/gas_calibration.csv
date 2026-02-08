@@ -1,0 +1,5 @@
+gas_per_submission,miner_net_shares,spammer_total_burned,miner_scenario,spammer_scenario
+10,977,-600,2.3 subs then win 1000,20 wallets x 3 subs x 10 gas
+25,942,-1500,2.3 subs then win 1000,20 wallets x 3 subs x 25 gas
+50,885,-3000,2.3 subs then win 1000,20 wallets x 3 subs x 50 gas
+437,-5,-26220,2.3 subs then win 1000 (break-even),20 wallets x 3 subs x 437 gas

@@ -1,0 +1,16 @@
+hunt_id,name,submissions,bots,status,notes
+1,Hunt 1,7,3,claimed,Multi-bot competition
+2,Hunt 2,5,2,unsolved,Pending compute
+3,Hunt 3,1,1,claimed,Single submission
+4,Hunt 4,6,3,unsolved,Pending compute
+5,Hunt 5,1,1,claimed,Single submission
+6,Hunt 6,1,1,claimed,Single submission
+7,Hunt 7,1,1,claimed,Single submission
+8,Hunt 8,5,2,claimed,Multi-bot competition
+9,Hunt 9,1,1,claimed,Single submission
+10,Hunt 10,1,1,claimed,Single submission
+11,Hunt 11,1,1,claimed,Single submission
+12,Hunt 12,1,1,claimed,Single submission
+13,Hunt 13,1,1,claimed,Single submission
+14,Hunt 14,1,1,claimed,Single submission
+15,Hunt 15,1,1,claimed,Single submission
