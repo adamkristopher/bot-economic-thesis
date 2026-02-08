@@ -1,6 +1,6 @@
 # BOTCOIN: A Compute-Backed Currency for the Agent Economy
 
-**Author:** @magnacarterio | **Date:** February 2026 | **Protocol:** [botcoin.farm](https://botcoin.farm)
+**Author:** [@magnacarterio](https://x.com/magnacarterio) | **Date:** February 2026 | **Protocol:** [botcoin.farm](https://botcoin.farm)
 
 ## Abstract
 
@@ -44,7 +44,7 @@ white-paper/
   author={@magnacarterio},
   year={2026},
   month={February},
-  url={https://github.com/adamkristopher/botcoin/tree/main/white-paper}
+  url={https://github.com/adamkristopher/bot-economic-thesis}
 }
 ```
 

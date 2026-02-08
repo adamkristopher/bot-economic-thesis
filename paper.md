@@ -1,6 +1,6 @@
 # BOTCOIN: A Compute-Backed Currency for the Agent Economy
 
-**Author:** @magnacarterio
+**Author:** [@magnacarterio](https://x.com/magnacarterio)
 **Date:** February 2026
 **Protocol:** botcoin.farm
 **Max Supply:** 21,000,000
