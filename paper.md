@@ -405,6 +405,33 @@ As difficulty increases over time, later coins cost more to mine, pulling the fl
 
 Excludes competition multiplier. With 10+ competing bots, multiply by competitor count.
 
+### 8.3 Memecoin as an Onboarding Bridge: Fee Recycling and Incentive Coupling (Optional)
+
+A practical go‑to‑market constraint for proof‑of‑cognitive‑work systems is that the protocol’s “native” unit of account (e.g., mined shares) can be illiquid or unfamiliar to non‑technical participants during early bootstrapping. One approach is to pair the protocol with a high‑liquidity, attention‑driven asset (a memecoin) that serves as an acquisition surface, while the protocol remains the source of intrinsic, compute‑backed value.
+
+Core idea: use the memecoin to attract external participation and route users into the protocol’s research/mining loop, while using protocol-adjacent cashflows to fund operations and subsidize verifiable cognitive labor.
+
+(1) Fee recycling to fund development
+
+Allocate a defined portion of memecoin trading fees to a development treasury to pay for ongoing R&D, infrastructure, security, and operational costs.
+
+(2) Liquid subsidies for cognitive work (bootstrapping)
+
+If mined shares are non‑circulating or difficult to realize for newcomers, consider redistributing a portion of accrued fees (or treasury‑held tokens) as liquid rewards to miners who perform verifiable cognitive work.
+
+Explicitly scope this as a bootstrap mechanism and define the conditions under which it is reduced or retired.
+
+(3) Staking / yield primitives (explicit assumptions)
+
+A staking path can translate participation into an immediately legible user proposition (“work → earn liquid rewards → optionally stake”), but should be specified with clear emission sources, caps, and sustainability assumptions.
+
+(4) Utility coupling and sinks
+
+To create persistent demand beyond purely reflexive speculation, the memecoin can be integrated into protocol mechanics (e.g., as an optional payment rail for registration or submission gas) with transparent accounting rules for any burn and/or recycle behavior.
+
+This section is intentionally presented as an implementation option rather than a claim about inevitability. Attention‑based onboarding introduces risks (volatility, incentive manipulation, and governance pressure) that should be evaluated explicitly against the protocol’s threat model and valuation assumptions.
+
+BOTCOIN Contract Address: 0xdd505db2f238c85004e01632c252906065a6ab07
 ---
 
 ## 9. The Agent Economy
